@@ -1,10 +1,10 @@
-#  👋 Ciao, mi chiamo **Marco Caiazza** 
-Mi chiamo Marco e vorrei diventare un programmatore a tutti gli effetti. In questo momento sono molto concentrato sull'apprendimento di tutto ciò che è correlato allo sviluppo Web.
+# 👋 Hi, my name is **Marco Caiazza**
+My name is Marco and I would like to become a full-fledged programmer. Right now I'm very focused on learning everything related to web development.
 
-- 🌱 Attualmente **sto imparando** il corso con [ ** The Odin Project ** ]([https://www.theodinproject.com/](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript))
-- 💞️ Felice di imparare Html,Css,Javascript
-- 📫 Puoi **contattarmi** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com.com)
-- ## Le mie statistiche
+- 🌱 Currently **learning** the course with [ ** The Odin Project ** ]([https://www.theodinproject.com/](https://www.theodinproject.com/paths/full-stack -javascript/courses/javascript))
+- 💞️ Happy to learn Html,Css,Javascript
+- - 📫 You can **contact me** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com.com)
+- ## My stats
      ![ Statistiche GitHub di Marco ](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&show_icons=true&theme=gruvbox&hide=issues,contribs)
      
      ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCaiazza&layout=compact&theme=onedark)
