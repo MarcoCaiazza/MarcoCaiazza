@@ -6,3 +6,5 @@ Mi chiamo Marco e vorrei diventare un programmatore a tutti gli effetti. In ques
 - 📫 Puoi **contattarmi** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com.com)
 - ## Le mie statistiche
      ![ Statistiche GitHub di Marco ](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&show_icons=true&theme=gruvbox&hide=issues,contribs)
+     
+     ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCaiazza&layout=compact&theme=onedark)
