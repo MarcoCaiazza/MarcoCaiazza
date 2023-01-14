@@ -4,4 +4,7 @@ Mi chiamo Marco e vorrei diventare un programmatore a tutti gli effetti. In ques
 - 🌱 Attualmente **sto imparando** il corso con [ ** The Odin Project ** ]([https://www.theodinproject.com/](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript))
 - 💞️ Felice di imparare Html,Css,Javascript
 - 📫 Puoi **contattarmi** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com.com)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&theme=gruvbox&show_icons=true)
+#   Le mie statistiche
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&theme=gruvbox&show_icons=true)
+
+
