@@ -11,3 +11,4 @@ Mi chiamo Marco e vorrei diventare un programmatore a tutti gli effetti. In ques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&hide=contribs,prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&theme=dark&show_icons=true)
