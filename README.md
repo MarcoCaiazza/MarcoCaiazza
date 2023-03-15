@@ -2,7 +2,7 @@
 My name is Marco and I would like to become a full-fledged programmer. Right now I'm very focused on learning everything related to web development.
 - 🌱 Currently **learning** the course with [**The Odin Project**](https://www.theodinproject.com/)
 
-- 💞️ Happy to learn Html,Css,Javascript
+- 💞️ Happy to learn Html,Css,Javascript and React.
 - 📫 You can **contact me** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com.com)
 - ## My Stats
 
