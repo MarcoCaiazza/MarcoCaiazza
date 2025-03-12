@@ -9,6 +9,5 @@ My name is Marco and I am a Junior Developer 👨‍💻. I currently work in an
 - 📫 You can **contact me** via LinkedIn [ **www.linkedin.com/in/marco-caiazza** ](mailto:https://www.linkedin.com/in/marco-caiazza-8898a3266)
 - ## My Stats 
 
-     ![ Statistiche GitHub di Marco ](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&show_icons=true&theme=gruvbox&hide=issues,contribs)
      
      ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCaiazza&layout=compact&theme=onedark)
