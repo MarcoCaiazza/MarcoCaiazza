@@ -6,8 +6,8 @@ My name is Marco and I am a Junior Developer 👨‍💻. I currently work in an
 - 🔧 I am dedicated to transforming ideas and designs into functional, intuitive and optimized user interfaces for every device and platform.
 - 💞️ I am happy to learn Typescript as best as possible, Redux and Next.js.
 - 📫 You can **contact me** via email [ **marcocaiazza2@gmail.com** ](mailto:marcocaiazza2@gmail.com)
-- 📫 You can **contact me** via LinkedIn [ **www.linkedin.com/in/marco-caiazza** ](mailto:https://www.linkedin.com/in/marco-caiazza-8898a3266/)
-- ## My Stats
+- 📫 You can **contact me** via LinkedIn [ **www.linkedin.com/in/marco-caiazza** ](mailto:https://www.linkedin.com/in/marco-caiazza-8898a3266)
+- ## My Stats 
 
      ![ Statistiche GitHub di Marco ](https://github-readme-stats.vercel.app/api?username=MarcoCaiazza&show_icons=true&theme=gruvbox&hide=issues,contribs)
      
